@@ -7,4 +7,4 @@ if first == second == third:
 elif first  == second  or first == third or third == second:
     print("если два числа равны ,равно 2")
 elif first != second != third:
-    print(" если числа не равны ,равно 0 " )123
+    print(" если числа не равны ,равно 0 " )
